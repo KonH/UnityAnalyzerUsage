@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleProject", "SampleProject\SampleProject.csproj", "{0E2B0682-C6DA-4A6B-9DFB-ECEFA51F7C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Unity.Analyzers", "Microsoft.Unity.Analyzers\src\Microsoft.Unity.Analyzers\Microsoft.Unity.Analyzers.csproj", "{3369C1F8-9C91-48C0-9EFD-4ED3937575A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Unity.Analyzers.Tests", "Microsoft.Unity.Analyzers\src\Microsoft.Unity.Analyzers.Tests\Microsoft.Unity.Analyzers.Tests.csproj", "{78191836-6480-49B7-8066-490DEB49D024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E2B0682-C6DA-4A6B-9DFB-ECEFA51F7C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2B0682-C6DA-4A6B-9DFB-ECEFA51F7C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2B0682-C6DA-4A6B-9DFB-ECEFA51F7C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2B0682-C6DA-4A6B-9DFB-ECEFA51F7C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3369C1F8-9C91-48C0-9EFD-4ED3937575A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3369C1F8-9C91-48C0-9EFD-4ED3937575A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3369C1F8-9C91-48C0-9EFD-4ED3937575A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3369C1F8-9C91-48C0-9EFD-4ED3937575A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78191836-6480-49B7-8066-490DEB49D024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78191836-6480-49B7-8066-490DEB49D024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78191836-6480-49B7-8066-490DEB49D024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78191836-6480-49B7-8066-490DEB49D024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
